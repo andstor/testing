@@ -1,0 +1,19 @@
+{
+    "url": "https://pastebin.com/cP60wu0w",
+    "browser": "chrome-puppeteer",
+    "method": "urls",
+    "autopin": true,
+    "viewport": {
+        "width": 800,
+        "height": 600
+    },
+    "timestamp": "1601039899",
+    "id": "0b6d7d1f4eefafc575b2fd934ae03815",
+    "diffZoneCount": 0,
+    "errorCount": 0,
+    "status": "review",
+    "inQueue": 1,
+    "urlsCount": 0,
+    "startAt": 1601039899726,
+    "lastUpdate": 1601039899726
+}
