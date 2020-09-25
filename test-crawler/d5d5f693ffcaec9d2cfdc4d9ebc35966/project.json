@@ -1,0 +1,14 @@
+{
+    "id": "d5d5f693ffcaec9d2cfdc4d9ebc35966",
+    "name": "innsida",
+    "crawlerInput": {
+        "url": "https://innsida.ntnu.no/bb",
+        "browser": "chrome-puppeteer",
+        "method": "urls",
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
