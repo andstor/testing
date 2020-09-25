@@ -1,0 +1,14 @@
+{
+    "id": "cbdc27c2eb6c6f8734907d24d4d10e5e",
+    "name": "GitHub docs",
+    "crawlerInput": {
+        "url": "https://pastebin.com/cP60wu0w",
+        "browser": "chrome-puppeteer",
+        "method": "urls",
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
