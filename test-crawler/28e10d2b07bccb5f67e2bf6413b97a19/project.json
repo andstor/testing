@@ -1,0 +1,13 @@
+{
+    "id": "28e10d2b07bccb5f67e2bf6413b97a19",
+    "name": "tu.no",
+    "crawlerInput": {
+        "url": "https://pastebin.com/7yp6x41M",
+        "browser": "chrome-puppeteer",
+        "method": "urls",
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
