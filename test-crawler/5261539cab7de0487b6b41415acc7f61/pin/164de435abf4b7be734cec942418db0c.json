@@ -7,7 +7,11 @@
         "timing": {}
     },
     "png": {
-        "width": 800
+        "width": 800,
+        "diff": {
+            "pixelDiffRatio": 0,
+            "zones": []
+        }
     },
     "viewport": {
         "width": 800,
