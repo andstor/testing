@@ -1,0 +1,15 @@
+{
+    "id": "5261539cab7de0487b6b41415acc7f61",
+    "name": "hub",
+    "crawlerInput": {
+        "url": "https://docs.github.com/en/github/setting-up-and-managing-billing-and-payments-on-github",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "limit": 3,
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
